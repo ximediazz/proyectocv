@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.primera {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    color: blue;
+    padding: 30px;
+    margin:80px;
+} 
+
+.datos-personales {
+    list-style: none;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    color: blue;
+    margin:auto;
+    background-color: rgb(194, 189, 189);
+    
+}
+.seccion{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    color: blue;
+    margin: 20px 40px 60px 80px;
+    background-color: rgb(194, 189, 189);
+}   
+
+.formacion {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    color: blue;
+    margin: 20px 40px 60px 80px;
+    background-color: rgb(194, 189, 189);
+}
+
+.foto-perfil {
+    width: 200px;
+    padding: 5px;
+    border: 50% solid blue;
+    border-radius: 100px;
+    background-color: rgb(194, 189, 189);
+}
